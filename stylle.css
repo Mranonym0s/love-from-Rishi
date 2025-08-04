@@ -123,6 +123,9 @@ body {
        
         border-radius: 15px;
         border: 0.8px solid white;
+        justify-content: center;
+        align-items: center;
+      
        
         
     }
@@ -135,3 +138,4 @@ body {
      
 
 }  
+
