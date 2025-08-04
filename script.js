@@ -1,10 +1,11 @@
 const wishes = [
-      "Wishing you a day full of love, joy, and cake!",
+      "Wishing you a day full of love💕,joy😊, and cake🎂!",
+      "💌 Happy birthday, my love! ",
+      "You are my heart 🫀, my soul, and my spacial one.",
       "May your smile 😇 shine as bright as the candles on your cake!",
       "🕊️ Hope all your dreams come true this year!",
       "🫵You're not getting older, you're getting more fabulous👌!",
-      "A birthday as special as your smile deserves the most beautiful surprises!",
-      "Here's to laughter😂, happiness😊, and unforgettable memories!",
+      "A birthday as special as your smile😊!",
       "Keep glowing, birthday queen👸!",
       "May your year ahead sparkle ✨ with magic and joy!"
     ];
@@ -39,5 +40,6 @@ const wishes = [
 
       setTimeout(() => fw.remove(), 1000);
     }
+
 
     setInterval(createFirework, 100);
